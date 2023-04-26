@@ -4135,6 +4135,8 @@ self.C3_JsPropNameTable = [
 	{carpiBtnH: 0},
 	{kaynakca: 0},
 	{carpiBtnK1: 0},
+	{yenidenDeneBtn2: 0},
+	{Sprite5: 0},
 	{rnd_sayi: 0},
 	{tiklama: 0},
 	{rnd_sayi1: 0},
@@ -4316,7 +4318,8 @@ self.C3_ExpressionFuncs = [
 		p => {
 			const v0 = p._GetNode(0).GetVar();
 			return () => (v0.GetValue()).toString();
-		}
+		},
+		() => 6
 ];
 
 
