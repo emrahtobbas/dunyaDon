@@ -1,7 +1,7 @@
 {
 	"name": "dunyaDonuyor",
 	"short_name": "dunyaDonuyor",
-	"description": "",
+	"description": "Güneş, Dünya ve Ay’ın birbirlerine göre hareketlerini simülasyon tekniği ile gösteren  etkileşimli bir uygulamadır.",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "landscape",
